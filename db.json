@@ -1,8 +1,34 @@
 {
-  "courses": [
-      {
-          "id": 1,
-          "name": "Kimetsu no Yaiba"
-      }
+  "truyens": [
+    {
+      "id": 1,
+      "name": "One Piece",
+      "description": "Đây là bộ Manga xoay quanh chàng trai Monkey D. Luffy, chàng trai ngô nghê pha chút hài hước đến từ vùng biển East Blue. Luffy đã thành lập Băng hải tặc Mũ rơm cùng với những người bạn mà anh đã cứu giúp. Trên con tàu Going Merry, họ đã cùng nhau đi qua vô vàn thử thách để tìm kiếm One Piece - kho báu danh giá. "
+    },
+    {
+      "name": "Attack on Titan",
+      "description": "Nếu muốn tìm một bộ manga với những tình tiết kỳ ảo siêu thực thì Attack on Titan sẽ là một sự lựa chọn khá đúng đắn. Truyện được xây dựng với sự tưởng tượng của tác giả về một thế giới giả tưởng, với cách kể đan xen giữa quá khứ và hiện tại khơi gợi sự tò mò nơi người đọc. Ở thế giới đó, người nắm quyền lực cao nhất là những người khổng lồ Titan. Con người lúc ấy bé nhỏ và yếu ớt vô cùng, họ phải làm những bức tường thành để ngăn chặn Titan. Nhưng rồi một ngày nọ, một Titan bất ngờ xuất hiện, phá nát tường thành và đem lại nỗi sợ hãi kinh hoàng cho loài người. Nhóm ba người bạn trẻ Eren, Armin và Mikasa quyết tâm lên đường mặc bao nguy hiểm để tìm ra chân tướng sự việc…",
+      "id": 2
+    },
+    {
+      "name": "Bleach",
+      "description": "Cái thiện và cái ác là những đề tài phổ biến trong các tác phẩm truyện tranh, nhưng để diễn tả ranh giới và những bài học xung quanh hai thái cực đối lập này thì Bleach chính là một kiệt tác. Nhân vật chính trong bộ truyện này là Kurosachi Ichigo. Một cách vô cùng tình cờ tựa như sự sắp đặt của số phận, Ichigo bỗng nhiên biến thành thần chết. Và ở cương vị mới này, anh đã giúp bạn bè và những người thân yêu của mình vượt qua muôn vàn thử thách hiểm nguy. Và họ cũng chính là những người luôn sát cánh bên anh, cùng anh vượt qua gian khó.",
+      "id": 3
+    },
+    {
+      "name": "Thám tử lừng danh conan",
+      "description": "Nhắc đến Manga mà bỏ quên Thám tử lừng danh Conan thì quả là một thiếu sót to lớn. Đây là tập truyện manga lấy bối cảnh Nhật Bản hiện đại với nhân vật chính là Shinichi Kudo - thám tử lừng danh trung học. Trong một lần phá án, cậu bị bọn Tổ chức áo đen phát giác và cho uống thuốc teo nhỏ. Từ đó, Shinichi xuất hiện dưới hình dạng chú bé Edogawa Conan 6 tuổi nhưng trí não và khả năng phá án thiên tài vẫn không thay đổi. Tá túc tại nhà cô bạn gái Ran Mori, Conan đã tham gia phá rất nhiều vụ án bí ẩn và dần dần vạch trần chân tướng Tổ chức áo đen….",
+      "id": 4
+    },
+    {
+      "name": "Kimetsu no Yaiba ",
+      "description": "Truyện lấy bối cảnh nước Nhật thời kỳ Taisho, khi mà khắp nơi mọi người đang bàn tán về một loài quỷ ăn thịt người ẩn náu trong rừng. Từ già trẻ lớn bé, không ai dám bén mảng ra khỏi nhà từ lúc trời nhá nhem tối vì nỗi khiếp sợ với lũ quỷ này. Nhân vật chính của truyện là cậu bé Kamado Tanjiro tốt bụng, nghĩa hiệp, con của một gia đình tiều phu nghèo sống trên núi. Một ngày nọ, lũ quỷ xông đến tàn sát cả nhà, chừa lại cậu và em gái Kazuo. Nhưng rồi sau đó Kazuo sau đó cũng bị biến thành quỷ. Quá đau khổ và thương em gái, Kazuo quyết định phải tiêu diệt quỷ, trả thù cho cả nhà.",
+      "id": 5
+    },
+    {
+      "name": "Dragon Ball ",
+      "description": "Dragon Ball là bộ manga cực kỳ nổi tiếng. Nội dung của bộ truyện là kể về cuộc đời nhiều thăng trầm của cậu bé đuôi khỉ Son Goku. Có một truyền thuyết lưu lại trong nhân gian rằng có bảy viên ngọc rồng đang bị cất giấu ở khắp nơi trên trái đất. Nếu ai tìm ra được cả bảy viên thì người đó sẽ được ban tặng một điều ước bất kỳ. Cậu bé Son Goku quyết tâm lên đường tìm ngọc, với sự trợ giúp của những người bạn nhiệt thành.",
+      "id": 6
+    }
   ]
 }
